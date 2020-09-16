@@ -7,6 +7,12 @@ Notebook Jupyter mettant en évidence les problèmes de qualité de données.  P
 - pandas
 
 - sqlalchemy
+
+- numpy
+
+- fuzzywuzzy
+
+- recordlinkage
   
   
 
@@ -40,10 +46,8 @@ Notebook Jupyter pour l'analyse exploratoire des données après déduplication.
 
 - detect_duplicates:  la fonction dedect_duplicates créé pour traiter la déduplication
 
--  matplotlib
+- matplotlib
 
 - seaborn
   
   ## 
-
-
